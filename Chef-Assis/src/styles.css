@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Bad Script');
+
+* {
+	font-family: 'Bad Script';
+	font-weight: bold;
+	color: #F29A9A;
+	background-color: #E7D7F4;
+	/* These settings are used to generalize text color and shape*/
+}
+
+body {
+	margin: 0;
+	padding: 0; 
+}

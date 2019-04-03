@@ -1,0 +1,28 @@
+
+div {
+	
+}
+
+.menu {
+	position: relative;
+	width: 1200px;
+	height: 300px;
+	margin: 240px auto;
+}
+
+.menu .item {
+	position: relative;
+	width: calc(400px - 30px);
+	height: calc(300px - 30px);
+	background-color: #FDFFDC;
+	float: left;
+	margin: 15px;
+	box-sizing: border-box;
+	overflow: hidden;
+	border-radius: 25px;
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: center;
+	line-height: 0.8;
+}
