@@ -1,0 +1,11 @@
+Main Menu with Two Options 
+Recipe Manager
+Ingredient Manager
+
+In The Ingredient Manager
+Show The Ingredienta and
+Options for adding, delete, or editing an Ingredient
+
+Same For Recipe
+
+Needs will arise as we go xD
